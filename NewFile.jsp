@@ -25,6 +25,7 @@
 		<li>test 2</li>
 		<li>re lilili</li>
 		<li>test 4</li>
+		<li>li remote save</li>
 	</ul>
 </body>
 </html>
