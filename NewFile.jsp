@@ -17,6 +17,7 @@
 	<ul>
 		<li>ul 추가추가</li>
 		<li>git이란 무엇인가??</li>
+		<li>버전</li>
 	</ul>
 </body>
 </html>
