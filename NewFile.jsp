@@ -22,6 +22,7 @@
 		<li>git이란 무엇인가??</li>
 		<li>버전</li>
 		<li>branch branch</li>
+		<li>test 2</li>
 	</ul>
 </body>
 </html>
