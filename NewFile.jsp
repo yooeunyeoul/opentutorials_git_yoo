@@ -7,12 +7,16 @@
 <title>Git 수업</title>
 </head>
 <body>
+
 	<header>
 		<h1>Git</h1>
 	</header>
 	<ul>
 		<li>sync.egoing</li>
 		<li>브랜치</li>
+	</ul>
+	<ul>
+		<li>ul 추가추가</li>
 	</ul>
 </body>
 </html>
