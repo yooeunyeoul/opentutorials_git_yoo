@@ -7,7 +7,6 @@
 <title>Git 수업</title>
 </head>
 <body>
-
 	<header>
 		<h1>Git</h1>
 	</header>
@@ -17,6 +16,7 @@
 	</ul>
 	<ul>
 		<li>ul 추가추가</li>
+		<li>git이란 무엇인가??</li>
 	</ul>
 </body>
 </html>
