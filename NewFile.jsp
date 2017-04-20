@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Git 소개 마스터 브랜치</title>
+<title>Git 소개 마스터 브랜치 title add plus</title>
 </head>
 <body>
 	<header>
