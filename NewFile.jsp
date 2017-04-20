@@ -4,7 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+
 <title>Git 소개 마스터 브랜치 title add plus</title>
+
 </head>
 <body>
 	<header>
@@ -13,6 +15,7 @@
 	<ul>
 		<li>sync.egoing</li>
 		<li>브랜치</li>
+		<li>실험 브랜치</li>
 	</ul>
 	<ul>
 		<li>ul 추가추가</li>
