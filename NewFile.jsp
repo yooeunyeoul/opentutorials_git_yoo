@@ -26,6 +26,7 @@
 		<li>re lilili</li>
 		<li>test 4</li>
 			<li>crush plus</li>
+			<li>crush resolve</li>
 	</ul>
 </body>
 </html>
