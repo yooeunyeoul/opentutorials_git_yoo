@@ -10,6 +10,10 @@
 var a = a;
 alert(a);
 
+fuction(){
+	
+}
+
 </script>
 </head>
 <body>
